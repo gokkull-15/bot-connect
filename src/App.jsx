@@ -1,5 +1,5 @@
 import React from "react";
-import WalkingBotGame from "./WalkingBotGame";
+import WalkingBotGame from "./components/WalkingBotGame";
 
 function App() {
   return (
